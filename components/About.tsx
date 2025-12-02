@@ -151,7 +151,7 @@ const About = () => {
         {/* Section Header */}
         <div className="text-center mb-8 sm:mb-12 md:mb-16">
           <h2 ref={titleRef} className="heading-lg">
-            About <span className="text-[#EB0028]">TEDx</span> & <span className="text-teal-400">Elysium</span>
+            About <span className="text-[#EB0028]">TED<sup>x</sup></span> & <span className="text-teal-400">Elysium</span>
           </h2>
           <p ref={descriptionRef} className="body-text max-w-4xl mx-auto px-2">
             TEDx events are independently organized TED-like gatherings that bring communities together

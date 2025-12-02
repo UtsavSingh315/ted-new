@@ -4,12 +4,12 @@ import SmoothScroll from '@/components/SmoothScroll';
 import InitialLoader from '@/components/InitialLoader';
 
 export const metadata: Metadata = {
-  title: 'TEDx SRMIST NCR Ghaziabad 2025 - Elysium Night',
-  description: 'Join us for an inspiring TEDx event on March 15, 2025 at SRMIST NCR Ghaziabad. Theme: Elysium (Mystical Dark Paradise).',
-  keywords: 'TEDx, SRMIST, NCR, Ghaziabad, Elysium, happiness, wellbeing, ideas, innovation',
-  authors: [{ name: 'TEDx SRMIST NCR Ghaziabad Team' }],
-  creator: 'TEDx SRMIST NCR Ghaziabad',
-  publisher: 'SRMIST NCR Campus',
+  title: 'TEDx SRMIST Delhi NCR',
+  description: 'Join us for an inspiring TEDx event on January 21, 2025 at SRMIST Delhi NCR. Theme: Elysium (Mystical Dark Paradise).',
+  keywords: 'TEDx SRMIST Delhi NCR, Elysium, happiness, wellbeing, ideas, innovation',
+  authors: [{ name: 'TEDx SRMIST Delhi NCR Team' }],
+  creator: 'TEDx SRMIST Delhi NCR',
+  publisher: 'SRMIST Delhi NCR Campus',
   robots: 'index, follow',
   alternates: {
     canonical: 'https://tedxsrmistncr.com',
